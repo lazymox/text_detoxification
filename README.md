@@ -46,6 +46,7 @@ Use the following script to detoxify your text:
 python main.py --text "Your text to detoxify here"
 ```
 
+## NOTE: files 'train.csv' and 'filtered.tsv' were too large. 'filtered.tsv' should be in raw/data/...
 
 
 
