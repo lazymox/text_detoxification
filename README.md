@@ -1,5 +1,9 @@
 # Text Detoxification Project
 
+Bexeiit Beibarys;
+b.bexeiit@innopolis.university;
+Exchange Student
+
 ## Overview
 This project provides tools to detoxify text, aiming to remove or replace toxic language while preserving the original meaning as much as possible. It utilizes a BERT-based model fine-tuned for the detoxification task.
 
@@ -12,7 +16,7 @@ This project provides tools to detoxify text, aiming to remove or replace toxic 
 To set up the project environment:
 
 ```bash
-git clone https://your-repository-link](https://github.com/lazymox/text_detoxification
+git clone https://github.com/lazymox/text_detoxification
 cd text_detoxification
 pip install -r requirements.txt 
 ```
