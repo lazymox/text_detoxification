@@ -51,6 +51,7 @@ python main.py --text "Your text to detoxify here"
 ```
 
 ## NOTE: files 'train.csv' and 'filtered.tsv' were too large. 'filtered.tsv' should be in raw/data/...
-
+link to the filtered.tsv file: 
+https://github.com/skoltech-nlp/detox/releases/download/emnlp2021/filtered_paranmt.zip
 
 
